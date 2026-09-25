@@ -1,4 +1,5 @@
 # softITo : Yapay Zeka Yazılımcılığı
+## SQL
 ## Python
 ## Machine Learning
 ## Deep Learning
